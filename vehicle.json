@@ -1,0 +1,20 @@
+[
+    {
+        "name" : "Hanif Travels",
+        "id" : 1,
+        "photo-url" : "https://www.hanif-enterprise.com/img/busowners/subdomain/hanif-enterprise-khulna/slider-banner/6.png",
+        "seat capacity" :  52
+    },
+    {
+        "name" : "TR Travels",
+        "id" : 2,
+        "photo-url" : "https://updateoffer.com/wp-content/uploads/2017/05/TR-Travels-All-Ticket-Counter-Number.jpg",
+        "seat capacity" :  50
+    },
+    {
+        "name" : "Ena Travels",
+        "id" : 3,
+        "photo-url" : "https://contactnumberhub.com/wp-content/uploads/2019/06/Ena_Paribahan.jpg",
+        "seat capacity" :  52
+    }
+]
